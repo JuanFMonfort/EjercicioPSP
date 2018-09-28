@@ -46,13 +46,13 @@
 
 
 <dl>
-  <a name=Plimorfismo><dt>5. Polimorfismo</dt></a>
+  <a name=Polimorfismo><dt>5. Polimorfismo</dt></a>
   <dd></dd>
 </dl>
 
 
 
 <dl>
-  <a name=Inerface><dt>6. Interface</dt></a>
+  <a name=Interface><dt>6. Interface</dt></a>
   <dd></dd>
 </dl>  
