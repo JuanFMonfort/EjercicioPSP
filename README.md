@@ -44,6 +44,7 @@ int calculaSuma(double x, double y, double z){
     ...
 }
 ```
+En este ejemplo tenemos dos metodos con el mismo nombre que aceptan diferentes tipos de datos, en este caso cuando llamemos al metodo el sistema no sabra a qual de los dos metodos estamos llamando.
 <dl>
   <a name=Herencia><dt>4. Herencia</dt></a>
   <dd></dd>
