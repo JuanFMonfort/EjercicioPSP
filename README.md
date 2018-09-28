@@ -40,11 +40,11 @@
 int calculaSuma(int x, int y, int z){
     ...
 }
-int calculaSuma(double x, double y, double z){
+int calculaSuma(int x, int y, int z){
     ...
 }
 ```
-En este ejemplo tenemos dos metodos con el mismo nombre que aceptan diferentes tipos de datos, en este caso cuando llamemos al metodo el sistema no sabra a qual de los dos metodos estamos llamando.
+En este ejemplo tenemos dos metodos con el mismo nombre que aceptan los mismos tipos de datos, en este caso cuando llamemos al metodo el sistema no sabra a qual de los dos metodos estamos llamando, al tener los nombre y los datos que acepta iguales.
 <dl>
   <a name=Herencia><dt>4. Herencia</dt></a>
   <dd></dd>
