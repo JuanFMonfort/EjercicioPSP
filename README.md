@@ -1,16 +1,16 @@
 # EjercicioPSP
 
-<a href=#Clases>..*. Clases</a>  
+<a href=#Clases>..* Clases</a>  
 
-<a href=#Objeto>..*. Objeto</a>  
+<a href=#Objeto>..* Objeto</a>  
 
-<a href=#Sobrecarga>..*. Sobrecarga de métodos</a>  
+<a href=#Sobrecarga>..* Sobrecarga de métodos</a>  
 
-<a href=#Herencia>..*. Herencia</a>  
+<a href=#Herencia>..* Herencia</a>  
 
-<a href=#Polimorfismo>..*. Polimorfismo</a>  
+<a href=#Polimorfismo>..* Polimorfismo</a>  
 
-<a href=#Interface>..*. Interface</a>  
+<a href=#Interface>..* Interface</a>  
 
 
 <dl>
