@@ -1,6 +1,6 @@
 # EjercicioPSP
 
-<a href=#Clases>**Clases**</a>  
+**<a href=#Clases>Clases</a>**  
 ----
 **<a href=#Objeto>Objeto</a>**  
 ----
