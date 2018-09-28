@@ -26,7 +26,7 @@
 
 <dl>
   <a name=Objeto><dt>2. Objeto</dt></a>
-  <dd></dd>
+  <dd>Un objeto es una unidad dentro de un programa de computadores que consta de un estado y de un comportamiento, que a su vez constan respectivamente de datos almacenados y de tareas realizables durante el tiempo de ejecución. Un objeto puede ser creado instanciando una clase, como ocurre en la programación orientada a objetos, o mediante escritura directa de código y la replicación de otros objetos, como ocurre en la programación basada en prototipos.</dd>
 </dl>
 
 
