@@ -6,11 +6,11 @@
 
 <a href=#Sobrecarga>Sobrecarga de métodos</a>  
 
-<a href=#Herencia>### Herencia</a>  
+<a href=#Herencia>###Herencia</a>  
 
-<a href=#Polimorfismo>### Polimorfismo</a>  
+<a href=#Polimorfismo>###Polimorfismo</a>  
 
-<a href=#Interface>### Interface</a>  
+<a href=#Interface>###Interface</a>  
 
 
 <dl>
