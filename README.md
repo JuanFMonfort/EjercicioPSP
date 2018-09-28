@@ -36,8 +36,14 @@
   <dd>La sobrecarga de métodos es la creación de varios métodos con el mismo nombre pero con diferente lista de tipos de parámetros. Java utiliza el número y tipo de parámetros para seleccionar cuál definición de método ejecutar. </dd>
 </dl>
 
-
-
+```java
+  int calculaSuma(int x, int y, int z){
+    ...
+}
+int calculaSuma(double x, double y, double z){
+    ...
+}
+```
 <dl>
   <a name=Herencia><dt>4. Herencia</dt></a>
   <dd></dd>
