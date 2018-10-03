@@ -138,7 +138,9 @@ public class Masajista extends SeleccionFutbol
 ```
 <dl>
   <a name=Polimorfismo><dt>5. Polimorfismo</dt></a>
-  <dd></dd>
+  <dd>El polimorfismo es la habilidad de una función, método, variable u objeto de poseer varias formas distintas. Podríamos decir que un mismo identificador comparte varios significados diferentes.
+
+El propósito del polimorfismo es implementar un estilo de programación llamado envío de mensajes en el que los objetos interactúan entre ellos mediante estos mensajes, que no son más que llamadas a distintas funciones.</dd>
 </dl>
 
 
