@@ -71,7 +71,7 @@ public class SeleccionFutbol
 	}
 }
 ```
-#### Clases Hijas
+### Clases Hijas
 
 ```java
  public class Futbolista extends SeleccionFutbol
