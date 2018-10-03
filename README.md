@@ -50,6 +50,7 @@ En este ejemplo tenemos dos metodos con el mismo nombre que aceptan los mismos t
   <dd>La herencia es una propiedad que permite la declaración de nuevas clases a partir de otras ya existentes. Esto proporciona una de las ventajas principales de la Programación Orientada a Objetos: la reutilización de código previamente desarrollado ya que permite a una clase más específica incorporar la estructura y comportamiento de una clase más general.</dd>
 </dl>
 ###Clase Padre
+
 ```java
 public class SeleccionFutbol
 {
@@ -93,6 +94,7 @@ public class SeleccionFutbol
 	}
 }
 ```
+
 ```java
 public class Entrenador extends SeleccionFutbol
 {
@@ -114,6 +116,7 @@ public class Entrenador extends SeleccionFutbol
 	}
 }
 ```
+
 ```java
 public class Masajista extends SeleccionFutbol
 {
