@@ -47,11 +47,91 @@ int calculaSuma(int x, int y, int z){
 En este ejemplo tenemos dos metodos con el mismo nombre que aceptan los mismos tipos de datos, en este caso cuando llamemos al metodo el sistema no sabra a qual de los dos metodos estamos llamando, al tener los nombre y los datos que acepta iguales.
 <dl>
   <a name=Herencia><dt>4. Herencia</dt></a>
-  <dd></dd>
+  <dd>La herencia es una propiedad que permite la declaración de nuevas clases a partir de otras ya existentes. Esto proporciona una de las ventajas principales de la Programación Orientada a Objetos: la reutilización de código previamente desarrollado ya que permite a una clase más específica incorporar la estructura y comportamiento de una clase más general.</dd>
 </dl>
+###Clase Padre
+```java
+public class SeleccionFutbol
+{
 
+	protected int id;
+	protected String Nombre;
+	protected String Apellidos;
+	protected int Edad;
 
+	// constructor, getter y setter
 
+	public void Concentrarse() {
+		...
+	}
+
+	public void Viajar() {
+		...
+	}
+}
+```
+####Clases Hijas
+
+```java
+ public class Futbolista extends SeleccionFutbol
+{
+	private int dorsal;
+	private String demarcacion;
+
+        public Futbolista() {
+		super();
+	}
+
+	// getter y setter
+
+	public void jugarPartido() {
+		...
+	}
+
+	public void entrenar() {
+		...
+	}
+}
+```
+```java
+public class Entrenador extends SeleccionFutbol
+{
+
+	private String idFederacion;
+
+        public Entrenador() {
+		super();
+	}
+
+	// getter y setter
+
+	public void dirigirPartido() {
+		...	
+	}
+
+	public void dirigirEntreno() {
+		...
+	}
+}
+```
+```java
+public class Masajista extends SeleccionFutbol
+{
+
+	private String Titulacion;
+	private int aniosExperiencia;
+
+        public Masajista() {
+		super();
+	}
+
+	// getter y setter
+
+	public void darMasaje() {
+		...
+	}
+}
+```
 <dl>
   <a name=Polimorfismo><dt>5. Polimorfismo</dt></a>
   <dd></dd>
