@@ -141,12 +141,12 @@ public class Masajista extends SeleccionFutbol
   <dd>El polimorfismo es la habilidad de una función, método, variable u objeto de poseer varias formas distintas. Podríamos decir que un mismo identificador comparte varios significados diferentes.
 
 El propósito del polimorfismo es implementar un estilo de programación llamado envío de mensajes en el que los objetos interactúan entre ellos mediante estos mensajes, que no son más que llamadas a distintas funciones.</dd>
-<dt>&nbsp;&nbsp;5.1. Polimorfismo de asignacion</dt>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;5.1. Polimorfismo de asignacion</dt>
 <dd>El polimorfismo de asignación es el que está más relacionado con el enlace dinámico.
 En java, una misma variable referenciada (Clases, interfaces…) puede hacer referencia a más de un tipo de Clase. El conjunto de las que pueden ser referenciadas está restringido por la herencia o la implementación.</dd>
-<dt>5.2. Polimorfismo Puro</dt>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;5.2. Polimorfismo Puro</dt>
 <dd>El polimorfismo puro se usa para nombrar a una función o método que puede recibir varios tipos de argumentos en tiempo de ejecución. Esto no lo debemos confundir con la sobrecarga, que es otro tipo de polimorfismo en tiempo de compilación.</dd>
-<dt>5.3. Polimorfismo de sobrecarga</dt>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;5.3. Polimorfismo de sobrecarga</dt>
 <dd>En el polimorfismo de sobrecarga, dos o más funciones comparten el mismo identificador, pero distinta lista de argumentos.</dd>
 </dl>
 
