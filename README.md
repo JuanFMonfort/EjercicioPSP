@@ -146,7 +146,19 @@ El propósito del polimorfismo es implementar un estilo de programación llamado
 En java, una misma variable referenciada (Clases, interfaces…) puede hacer referencia a más de un tipo de Clase. El conjunto de las que pueden ser referenciadas está restringido por la herencia o la implementación.</dd>
 
 
-
+```java
+abstract class vehiculo
+{
+    abstract public void iniciar();
+}
+class Coche extends Vehiculo
+{
+    @Override
+    public void iniciar()
+    {
+    }
+}
+```
 
 
 <dt>&nbsp;&nbsp;&nbsp;&nbsp;5.2. Polimorfismo Puro</dt>
