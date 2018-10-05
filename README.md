@@ -167,7 +167,6 @@ class PolimorfismoPuroTest
 
 <dt>&nbsp;&nbsp;&nbsp;&nbsp;5.3. Polimorfismo de sobrecarga</dt>
 <dd>En el polimorfismo de sobrecarga, dos o más funciones comparten el mismo identificador, pero distinta lista de argumentos.</dd>
-</dl>
 
 
 ```java
@@ -195,6 +194,8 @@ public final class String
 }
 ```
 
+
+</dl>
 
 
 <dl>
