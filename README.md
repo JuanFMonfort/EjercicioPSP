@@ -149,6 +149,30 @@ En java, una misma variable referenciada (Clases, interfaces…) puede hacer ref
 <dt>&nbsp;&nbsp;&nbsp;&nbsp;5.3. Polimorfismo de sobrecarga</dt>
 <dd>En el polimorfismo de sobrecarga, dos o más funciones comparten el mismo identificador, pero distinta lista de argumentos.</dd>
 </dl>
+```java
+public final class String
+    implements java.io.Serializable, Comparable, CharSequence 
+{
+    ...
+
+    public static String valueOf(Object obj) 
+    {
+        return (obj == null) ? "null" : obj.toString();
+    }
+
+    public static String valueOf(char data[]) 
+    {
+        return new String(data);
+    }
+
+    public static String valueOf(char data[], int offset, int count) 
+    {
+        return new String(data, offset, count);
+    }
+
+    ...
+}
+```
 
 
 
