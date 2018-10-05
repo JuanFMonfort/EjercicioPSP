@@ -212,5 +212,19 @@ public final class String
 
 <dl>
   <a name=Interface><dt>6. Interface</dt></a>
-  <dd></dd>
+  <dd>Los interfaces proporcionan un mecanismo para abstraer los métodos a un nivel superior, lo que permite simular la herencia múltiple de otros lenguajes.
+Un interfaz sublima el concepto de clase abstracta hasta su grado más alto. Un interfaz podrá verse simplemente como una forma, es como un molde, solamente permite declarar nombres de métodos, listas de argumentos, tipos de retorno y adicionalmente miembros datos.</dd>
+	
+	
+```java
+public interface Figura { 
+
+float PI = 3.1416f;   // Por defecto public static  final. La f final indica que el número es float
+
+float area();   // Por defecto abstract public
+
+} //Cierre de la interface
+```
+	
+	
 </dl>  
