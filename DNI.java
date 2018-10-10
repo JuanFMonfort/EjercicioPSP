@@ -1,5 +1,3 @@
-```java
-
 import java.util.*;
 public class DNI {
 	public static void main(String[] args) {
@@ -42,4 +40,3 @@ public class DNI {
 	
 }
 
-```
