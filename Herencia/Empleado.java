@@ -1,6 +1,3 @@
-``` java
-
-
 public class Empleado {
 	private String nombre;
 
@@ -24,5 +21,3 @@ public class Empleado {
 	
 }
 
-
-```
