@@ -1,22 +1,13 @@
-public class Empleado {
-	private String nombre;
+public class Directivo extends Empleado{
 
-	
-	public Empleado(String nombre) {
-		this.nombre = nombre;
-	}
-
-	public String getNombre() {
-		return nombre;
-	}
-
-	public void setNombre(String nombre) {
-		this.nombre = nombre;
+	public Directivo(String nombre) {
+		super(nombre);
+		// TODO Auto-generated constructor stub
 	}
 
 	@Override
 	public String toString() {
-		return "Empleado "+nombre;
+		return super.toString()+" -> Directivo";
 	}
 	
 }
