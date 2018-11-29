@@ -21,6 +21,7 @@
   a un usuario realizar uno o varios tipos de trabajos. Esto lo distingue primordialmente de otros tipos de programas, 
   los cuales los sistemas operativos (que hacen trabajar la PC), los utilitarios (que ejecutan las tareas de mantenimientos o del 
   uso frecuente), y los lenguajes de programación (para inventar programas informáticos).</dd>
+  <p>Ejemplo: Calculadora.</p>
 </dl>
 
 <dl>
