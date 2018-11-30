@@ -32,7 +32,7 @@
 
 <dl>
   <a name=Proceso><dt>3. Proceso</dt></a>
-  <dd>Un Proceso puede informalmente entenderse como un programa en ejecución. Formalmente un proceso es "Una unidad de actividad que se caracteriza por la ejecución de una secuencia de instrucciones, un estado actual, y un conjunto de recursos del sistema asociados".1​ </dd>
+  <dd>Un Proceso puede informalmente entenderse como un programa en ejecución. Formalmente un proceso es "Una unidad de actividad que se caracteriza por la ejecución de una secuencia de instrucciones, un estado actual, y un conjunto de recursos del sistema asociados". </dd>
   <p>Ejemplo: Microsoft Edge.</p>
 </dl>
 
