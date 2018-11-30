@@ -26,9 +26,9 @@
 
 <dl>
   <a name=Servicio><dt>2. Servicio</dt></a>
-  <dd></dd>
+  <dd>es un tipo especial de proceso informático no interactivo, es decir, que se ejecuta en segundo plano en vez de ser controlado directamente por el usuario. Este tipo de programas continua en el sistema, es decir, que puede ser ejecutado en forma persistente o reiniciado si se intenta matar el proceso dependiendo de la configuración del daemon y de las políticas del sistema.</dd>
 </dl>
-
+<p>Ejemplo: Antivirus.</p>
 <dl>
   <a name=Proceso><dt>3. Proceso</dt></a>
   <dd>Las aplicaciones informáticas, en informática es un tipo de proyecto informático creado como herramienta para proporcionar a un usuario realizar uno o varios tipos de trabajos. Esto lo distingue primordialmente de otros tipos de programas, los cuales los sistemas operativos (que hacen trabajar la PC), los utilitarios (que ejecutan las tareas de mantenimientos o del uso frecuente), y los lenguajes de programación (para inventar programas informáticos)</dd>
