@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <center>
+      <ListView fx:id="lista" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+   </center>
+   <top>
+      <Pane prefHeight="40.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="btn_principal" layoutX="274.0" layoutY="8.0" mnemonicParsing="false" onAction="#searchPrincipal" text="Pricipal" />
+            <Button fx:id="btn_communitySoftware" layoutX="117.0" layoutY="8.0" mnemonicParsing="false" onAction="#searchSoftware" text="Community Software" />
+            <Button fx:id="btn_communityVideos" layoutX="362.0" layoutY="8.0" mnemonicParsing="false" onAction="#searchVideos" text="Community Videos" />
+         </children>
+      </Pane>
+   </top>
+</BorderPane>
