@@ -1,16 +1,16 @@
 # PSP
 
-**<a href=#Clases>Clases</a>**  
+**<a href=#Clases>1. Clases</a>**  
 ----
-**<a href=#Objeto>Objeto</a>**  
+**<a href=#Objeto>2. Objeto</a>**  
 ----
-**<a href=#Sobrecarga>Sobrecarga de métodos</a>**  
+**<a href=#Sobrecarga>3. Sobrecarga de métodos</a>**  
 ----
-**<a href=#Herencia>Herencia</a>**  
+**<a href=#Herencia>4. Herencia</a>**  
 ----
-**<a href=#Polimorfismo>Polimorfismo</a>**  
+**<a href=#Polimorfismo>5. Polimorfismo</a>**  
 ----
-**<a href=#Interface>Interface</a>**  
+**<a href=#Interface>6. Interface</a>**  
 ----
 
 <dl>
