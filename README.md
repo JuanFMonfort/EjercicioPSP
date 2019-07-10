@@ -1,4 +1,4 @@
-https://github.com/adam-p/markdown-here.wiki.git
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 # PSP
 
 **<a href=#Clases>1. Clases</a>**  
